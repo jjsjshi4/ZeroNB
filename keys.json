@@ -1,0 +1,50 @@
+{
+    "keys": {
+        "zero-admin-zhuxiannb": {
+            "expiry": "never",
+            "devices": [],
+            "limit": 1
+        },
+        "ZERO-3D-AC6Mt7i3fj": {
+            "expiry": "2025\/12\/05 17:37",
+            "devices": [
+                "59cbd556a7178252",
+                "3c931896f28e8272",
+                "027a774170b80df3",
+                "6500dd6ca2256dba",
+                "81f04fbe2886df78",
+                "2f88722188d6e963",
+                "e091cd6d1d29594f"
+            ],
+            "limit": 30
+        },
+        "ZERO-2D-rNmeMmQ99Y": {
+            "expiry": "2025\/12\/04 18:09",
+            "devices": [
+                "3c931896f28e8272"
+            ],
+            "limit": 2
+        },
+        "ZERO-30D-QcLPvWEQDe": {
+            "expiry": "2026\/01\/01 23:11",
+            "devices": [
+                "7d65b17b47761621"
+            ],
+            "limit": 1
+        },
+        "ZERO-3D-VcrVQIZHZ6": {
+            "expiry": "2025\/12\/07 22:29",
+            "devices": [
+                "1745e6d113ccaae4"
+            ],
+            "limit": 15
+        },
+        "ZERO-30D-wnnLQ4hTDl": {
+            "expiry": "2026\/01\/04 21:15",
+            "devices": [
+                "e091cd6d1d29594f"
+            ],
+            "limit": 1
+        }
+    }
+}
