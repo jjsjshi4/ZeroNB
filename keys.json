@@ -1,50 +1,21 @@
 {
     "keys": {
-        "zero-admin-zhuxiannb": {
-            "expiry": "never",
-            "devices": [],
-            "limit": 1
-        },
-        "ZERO-3D-AC6Mt7i3fj": {
-            "expiry": "2025\/12\/05 17:37",
+        "ILOVEZHUXIAN": {
+            "expiry": "2026\/03\/08 23:57",
             "devices": [
-                "59cbd556a7178252",
+                "dd952f0c0b9ed656",
                 "3c931896f28e8272",
-                "027a774170b80df3",
-                "6500dd6ca2256dba",
-                "81f04fbe2886df78",
-                "2f88722188d6e963",
-                "e091cd6d1d29594f"
+                "d81c9c955555ebe7",
+                "7bb5bc64b90792b2",
+                "06c09edc616c1412",
+                "e0b277feda0d0241",
+                "64383ed3663c81a0",
+                "72fdc2a7c6055c2f",
+                "a0c45c60873bd13b",
+                "59cbd556a7178252",
+                "7585839720e259e0"
             ],
-            "limit": 30
-        },
-        "ZERO-2D-rNmeMmQ99Y": {
-            "expiry": "2025\/12\/04 18:09",
-            "devices": [
-                "3c931896f28e8272"
-            ],
-            "limit": 2
-        },
-        "ZERO-30D-QcLPvWEQDe": {
-            "expiry": "2026\/01\/01 23:11",
-            "devices": [
-                "7d65b17b47761621"
-            ],
-            "limit": 1
-        },
-        "ZERO-3D-VcrVQIZHZ6": {
-            "expiry": "2025\/12\/07 22:29",
-            "devices": [
-                "1745e6d113ccaae4"
-            ],
-            "limit": 15
-        },
-        "ZERO-30D-wnnLQ4hTDl": {
-            "expiry": "2026\/01\/04 21:15",
-            "devices": [
-                "e091cd6d1d29594f"
-            ],
-            "limit": 1
+            "limit": 99
         }
     }
 }
